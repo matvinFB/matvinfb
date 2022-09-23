@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo.
 
 ### Quem sou eu
-Meu nome é Matheus sou um programador, estudante e aspirante a fotografo amador nas horas vagas. Atualmente estudo Redes de Computadores na Universidade Federal do Ceará. 
+Meu nome é Matheus sou um programador, estudante e aspirante a fotografo amador nas horas vagas. Atualmente sou desenvolvedor Flutter Mobile e estudo Redes de Computadores na Universidade Federal do Ceará. 
 
 ### Tecnologias que eu gosto
 * Dart(Flutter)
