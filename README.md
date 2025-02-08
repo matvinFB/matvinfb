@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo.
 
 ### Quem sou eu
-Meu nome é Matheus sou um programador, estudante de Segurançá da Informação. Atualmente sou desenvolvedor Flutter e estudo Redes de Computadores na Universidade Federal do Ceará. Recentemente comecei uma série de laboratórios abordando a pilha ELK que você pode achar [aqui](https://github.com/matvinFB/elasticsearch_8_lab).
+Meu nome é Matheus sou um programador, estudante de Segurança da Informação. Atualmente sou desenvolvedor Flutter e estudo Redes de Computadores na Universidade Federal do Ceará. Recentemente comecei uma série de laboratórios abordando a pilha ELK que você pode achar [aqui](https://github.com/matvinFB/elasticsearch_8_lab).
 
 ### Do que eu gosto
 * Segurança da Informação
